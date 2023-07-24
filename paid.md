@@ -1,0 +1,5 @@
+- khong mac dinh redeem = false
+- bo project network
+- Publish sale:
+- Private sale: price
+-
